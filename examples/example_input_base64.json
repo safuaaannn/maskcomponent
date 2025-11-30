@@ -1,0 +1,14 @@
+{
+  "user_id": "test_user_002",
+  "gender": "male",
+  "image": {
+    "type": "base64",
+    "data": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg=="
+  },
+  "mask_types": ["upper_body"],
+  "request_id": "req-abcde-fghij",
+  "timestamp": "2025-01-15T10:35:00Z"
+}
+
+
+

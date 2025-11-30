@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Generated files
+generated_masks/
+*.log
+*.tmp
+test_outputs/
+
+# Test images (keep structure, but ignore test files)
+*.jpg
+*.jpeg
+*.png
+
+# Model checkpoints (excluded from git - add manually if needed)
+checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Database migrations (one-time use)
+migrate_database.py
+
+# Temporary test files
+test_*.py
+verify_*.py
+check_*.py
+fix_*.py
+diagnose_*.py
+
+# Temporary documentation (keep only README.md and docs/)
+*.md
+!README.md
+!docs/**/*.md
+
+# Temporary scripts (keep only in scripts/)
+*.sh
+!scripts/**/*.sh
+
+# SQL files (keep only in docs/)
+*.sql
+!docs/**/*.sql

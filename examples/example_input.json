@@ -1,0 +1,14 @@
+{
+  "user_id": "test_user_001",
+  "gender": "female",
+  "image": {
+    "type": "url",
+    "data": "https://example.com/path/to/image.jpg"
+  },
+  "mask_types": ["upper_body", "lower_body", "ethnic_combined"],
+  "request_id": "req-12345-67890",
+  "timestamp": "2025-01-15T10:30:00Z"
+}
+
+
+
